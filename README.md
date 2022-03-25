@@ -1,7 +1,7 @@
 ### Olá, meu nome é Claudio Vinicius Nogueira
 
-- 🔭 Cursando o último semestre de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Javascript e suas frameworks
+- 🔭 6º semestre de Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando Javascript e ReactJS
 
 <div align="center">
   <a href="https://github.com/claudionoggueira">
