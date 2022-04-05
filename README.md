@@ -33,7 +33,6 @@
    <a href = "mailto:cllaudionoggueira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="mailto:claudionoggueira@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href= "https://api.whatsapp.com/send?phone=5511940671246&text=Contato%20-%20Claudio%20Vinicius%20Nogueira"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-   <a href="https://discord.gg/3xgrTUHr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">    </a>
    <a href="https://www.linkedin.com/in/claudio-vinicius-nogueira-3bb856145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
