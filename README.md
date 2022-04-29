@@ -1,14 +1,13 @@
 Hi 👋 My name is Claudio Vinicius Nogueira
 ==========================================
 
-Junior Web Developer
---------------------
+Technologist in Systems Analysis and Development
+------------------------------------------------
 
 I've been learning to program since 2017 in a technical computer course, since then I've been passionate about the area. I started studying Java and C# and recently I've been focusing more on learning frontend development.
 
 * 🌍  I'm based in São Paulo, SP - Brazil
 * 🧠  I'm currently learning Web Design
-* 🏫  6th semester of systems analysis and development
 
 <br>
 
