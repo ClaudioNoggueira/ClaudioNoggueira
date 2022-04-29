@@ -7,8 +7,8 @@ Junior Web Developer
 I've been learning to program since 2017 in a technical computer course, since then I've been passionate about the area. I started studying Java and C# and recently I've been focusing more on learning frontend development.
 
 * 🌍  I'm based in São Paulo, SP - Brazil
-* ✉️  You can contact me at [cllaudionoggueira@gmail.com](mailto:cllaudionoggueira@gmail.com)
 * 🧠  I'm currently learning Web Design
+* 🏫  6th semester of systems analysis and development
 
 <br>
 
