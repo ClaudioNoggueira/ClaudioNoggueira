@@ -8,7 +8,7 @@ I've been learning to program since 2017 in a technical computer course, since t
 
 * 🌍  I'm based in São Paulo, SP - Brazil
 * 🧠  I'm currently learning Web Design
-* 📫  You can email me at: [cllaudionoggueira@gmail.com](mailto:cllaudionoggueira@gmail.com)
+* 📫  You can email me at: [cllaudionoggueira@gmail.com](mailto:cllaudionoggueira@gmail.com) or [claudionoggueira@outlook.com](mailto:claudionoggueira@outlook.com)
 * 📞  You can call and message me at: [+55 11 94067-1246](https://api.whatsapp.com/send?phone=5511940671246&text=Contato%20-%20Claudio%20Vinicius%20Nogueira)
 
 <br>
