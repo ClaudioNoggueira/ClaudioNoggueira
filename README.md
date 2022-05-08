@@ -42,12 +42,12 @@ I've been learning to program since 2017 in a technical computer course, since t
 Frontend
 --------
 <div style="display: inline_block">
-  <img align="center" alt="Claudio-HTML" title="HTML5" width="125.5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Claudio-CSS" title="CSS3" width="110" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-  <img align="center" alt="Claudio-Bootstrap" title="Bootstrap" width="175" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Claudio-Js" title="Javascript" width="180" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Claudio-Ts" title="Typescript" width="180" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Claudio-ReactJS" title="ReactJS" width="123" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Claudio-HTML" title="HTML5" width="115" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Claudio-CSS" title="CSS3" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+  <img align="center" alt="Claudio-Bootstrap" title="Bootstrap" width="160" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Claudio-Js" title="Javascript" width="165" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Claudio-Ts" title="Typescript" width="165" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Claudio-ReactJS" title="ReactJS" width="112" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
 Backend
