@@ -37,10 +37,9 @@ I've been learning to program since 2017 in a technical computer course, since t
   
 <br>
   
-## Skills
+## My Skills
 
-Frontend
---------
+### Frontend
 <div style="display: inline_block">
   <img align="center" alt="Claudio-HTML" title="HTML5" height="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Claudio-CSS" title="CSS3" height="35" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
@@ -50,8 +49,7 @@ Frontend
   <img align="center" alt="Claudio-ReactJS" title="ReactJS" height="35" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-Backend
--------
+### Backend
 <div style="display: inline_block">
   <img align="center" alt="Claudio-NodeJS" title="NodeJS" height="35" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Claudio-Java" title="Java" height="35" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -59,8 +57,7 @@ Backend
   <img align="center" alt="Claudio-Csharp" title="C#" height="35" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
-Databases
----------
+### Databases
 <div style="display: inline_block">
   <img align="center" alt="Claudio-MySQL" title="MySQL" height="35" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Claudio-PostgreSQL" title="PostgreSQL" height="35" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -70,20 +67,24 @@ Databases
 <br>
   
 ## Socials
- <div>
+<div style="display: inline_block">
   <a href = "mailto:cllaudionoggueira@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img title="Gmail" src="https://img.icons8.com/color/48/000000/gmail-new.png" target="_blank">
   </a>
+  &nbsp;
   <a href="mailto:claudionoggueira@gmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+    <img title="Outlook" src="https://img.icons8.com/color/48/000000/ms-outlook.png" target="_blank">
   </a>
+  &nbsp;   
   <a href= "https://api.whatsapp.com/send?phone=5511940671246&text=Contato%20-%20Claudio%20Vinicius%20Nogueira">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img title="Whatsapp" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png">
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/claudio-vinicius-nogueira-3bb856145/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+    <img title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank">
+  </a>
+  &nbsp;
   <a href="https://discord.com/users/ClaudioNogueira#7216" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    <img title="Discord" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" target="_blank">
   </a>
 </div>
