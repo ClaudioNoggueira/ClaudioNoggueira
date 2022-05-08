@@ -62,9 +62,9 @@ Backend
 Databases
 ---------
 <div style="display: inline_block">
-  <img align="center" alt="Claudio-MySQL" title="MySQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Claudio-PostgreSQL" title="PostgreSQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Claudio-MongoDB" title="MongoDB" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Claudio-MySQL" title="MySQL" height="35" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Claudio-PostgreSQL" title="PostgreSQL" height="35" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="Claudio-MongoDB" title="MongoDB" height="35" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 <br>
