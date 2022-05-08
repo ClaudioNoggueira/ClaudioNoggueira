@@ -17,11 +17,11 @@ I've been learning to program since 2017 in a technical computer course, since t
 
 <div style="display: inline_block">
   <a href="http://www.github.com/ClaudioNoggueira" align="left">
-    <img height="153rem" src="https://github-readme-stats.vercel.app/api?username=ClaudioNoggueira&show_icons=true&hide=contribs,issues&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="ClaudioNoggueira's GitHub stats" />
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=ClaudioNoggueira&show_icons=true&hide=contribs,issues&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="ClaudioNoggueira's GitHub stats" />
   </a>
 
   <a href="http://www.github.com/ClaudioNoggueira" align="right">
-    <img height="154rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioNoggueira&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioNoggueira&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </div>
 
