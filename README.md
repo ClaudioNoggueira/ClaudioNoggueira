@@ -52,9 +52,9 @@ My first contact with system development was in a technical computer course in 2
 ### Backend
 <div style="display: inline_block">
   <img align="center" alt="Claudio-NodeJS" title="NodeJS" height="35" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Claudio-Java" title="Java" height="35" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Claudio-Java" title="Java" height="35" src="https://img.shields.io/badge/Java-E51F24?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Claudio-Spring" title="Spring Boot" height="35" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Claudio-Csharp" title="C#" height="35" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Claudio-Csharp" title="C#" height="35" src="https://img.shields.io/badge/C%23-370085?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 ### Databases
