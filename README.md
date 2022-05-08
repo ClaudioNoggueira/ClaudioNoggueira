@@ -1,13 +1,13 @@
 Hi 👋 My name is Claudio Vinicius Nogueira
 ==========================================
 
-Technologist in Systems Analysis and Development
-------------------------------------------------
+Backend Developer, aspiring FullStack
+-------------------------------------
 
-I've been learning to program since 2017 in a technical computer course, since then I've been passionate about the area. I started studying Java and C# and recently I've been focusing more on learning frontend development.
+My first contact with system development was in a technical computer course in 2017, since then I've been passionate about the area. I started studying Java and C# and recently I've been focusing more on learning frontend development.
 
 * 🌍  I'm based in São Paulo, SP - Brazil
-* 🧠  I'm currently learning Web Design
+* 🧠  I'm currently learning frontend development
 * 📫  You can email me at: [cllaudionoggueira@gmail.com](mailto:cllaudionoggueira@gmail.com) or [claudionoggueira@outlook.com](mailto:claudionoggueira@outlook.com)
 * 📞  You can call and message me at: [+55 11 94067-1246](https://api.whatsapp.com/send?phone=5511940671246&text=Contato%20-%20Claudio%20Vinicius%20Nogueira)
 
