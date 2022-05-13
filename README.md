@@ -1,7 +1,7 @@
 Hi 👋 My name is Claudio Vinicius Nogueira
 ==========================================
 
-Backend Developer, aspiring FullStack
+Web Developer
 -------------------------------------
 
 My first contact with system development was in a technical computer course in 2017, since then I've been passionate about the area. I started studying Java and C# and recently I've been focusing more on learning frontend development.
@@ -21,7 +21,7 @@ My first contact with system development was in a technical computer course in 2
   </a>
 
   <a href="http://www.github.com/ClaudioNoggueira" align="right">
-    <img height="144rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioNoggueira&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img height="144rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioNoggueira&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="ClaudioNoggueira's GitHub streak stats"/>
   </a>
 </div>
 
@@ -41,27 +41,54 @@ My first contact with system development was in a technical computer course in 2
 
 ### Frontend
 <div style="display: inline_block">
-  <img align="center" alt="Claudio-HTML" title="HTML5" height="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Claudio-CSS" title="CSS3" height="35" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-  <img align="center" alt="Claudio-Bootstrap" title="Bootstrap" height="35" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Claudio-Js" title="Javascript" height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Claudio-Ts" title="Typescript" height="35" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Claudio-ReactJS" title="ReactJS" height="35" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img align="center" alt="HTML" title="HTML5" height="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img align="center" alt="CSS" title="CSS3" height="35" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img align="center" alt="Bootstrap" title="Bootstrap" height="35" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img align="center" alt="Javascript" title="Javascript" height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img align="center" alt="Ts" title="Typescript" height="35" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  <a href="https://reactjs.org/">
+    <img align="center" alt="ReactJS" title="ReactJS" height="35" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  
 </div>
 
 ### Backend
 <div style="display: inline_block">
-  <img align="center" alt="Claudio-NodeJS" title="NodeJS" height="35" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Claudio-Java" title="Java" height="35" src="https://img.shields.io/badge/Java-E51F24?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Claudio-Spring" title="Spring Boot" height="35" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Claudio-Csharp" title="C#" height="35" src="https://img.shields.io/badge/C%23-370085?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <a href="https://nodejs.org/en/">
+    <img align="center" alt="NodeJS" title="NodeJS" height="35" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
+  <a href="https://www.java.com/en/">
+    <img align="center" alt="Java" title="Java" height="35" src="https://img.shields.io/badge/Java-E51F24?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+  <a href="https://spring.io/">
+    <img align="center" alt="Spring" title="Spring Boot" height="35" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img align="center" alt="Csharp" title="C#" height="35" src="https://img.shields.io/badge/C%23-370085?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a>
 </div>
 
 ### Databases
 <div style="display: inline_block">
-  <img align="center" alt="Claudio-MySQL" title="MySQL" height="35" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Claudio-PostgreSQL" title="PostgreSQL" height="35" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Claudio-MongoDB" title="MongoDB" height="35" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <a href="https://www.mysql.com/">
+    <img align="center" alt="MySQL" title="MySQL" height="35" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img align="center" alt="PostgreSQL" title="PostgreSQL" height="35" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img align="center" alt="MongoDB" title="MongoDB" height="35" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
 </div>
 
 <br>
@@ -69,22 +96,22 @@ My first contact with system development was in a technical computer course in 2
 ## Socials
 <div style="display: inline_block">
   <a href = "mailto:cllaudionoggueira@gmail.com">
-    <img title="Gmail" src="https://img.icons8.com/color/48/000000/gmail-new.png" target="_blank">
+    <img title="Gmail" src="https://img.icons8.com/color/48/000000/gmail-new.png" target="_blank" alt="Gmail logo">
   </a>
   &nbsp;
   <a href="mailto:claudionoggueira@gmail.com">
-    <img title="Outlook" src="https://img.icons8.com/color/48/000000/ms-outlook.png" target="_blank">
+    <img title="Outlook" src="https://img.icons8.com/color/48/000000/ms-outlook.png" target="_blank" alt="Outlook logo">
   </a>
   &nbsp;   
   <a href= "https://api.whatsapp.com/send?phone=5511940671246&text=Contato%20-%20Claudio%20Vinicius%20Nogueira">
-    <img title="Whatsapp" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png">
+    <img title="WhatsApp" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp logo">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/claudio-vinicius-nogueira-3bb856145/" target="_blank">
-    <img title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank">
+    <img title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank" alt="LinkedIn logo">
   </a>
   &nbsp;
   <a href="https://discord.com/users/ClaudioNogueira#7216" rel="noreferrer">
-    <img title="Discord" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" target="_blank">
+    <img title="Discord" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" target="_blank" alt="Discord logo">
   </a>
 </div>
