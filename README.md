@@ -53,9 +53,9 @@ My first contact with system development was in a technical computer course in 2
   <a href="https://www.javascript.com/">
     <img align="center" alt="Javascript" title="Javascript" height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
-  <a href="https://www.typescriptlang.org/">
+<!--   <a href="https://www.typescriptlang.org/">
     <img align="center" alt="Ts" title="Typescript" height="35" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
+  </a> -->
   <a href="https://reactjs.org/">
     <img align="center" alt="ReactJS" title="ReactJS" height="35" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
