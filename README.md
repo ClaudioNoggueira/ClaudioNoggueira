@@ -41,7 +41,7 @@ My first contact with system development was in a technical computer course in 2
 
 ### Frontend
 <div style="display: inline_block">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img align="center" alt="HTML" title="HTML5" height="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
