@@ -107,7 +107,7 @@ My first contact with system development was in a technical computer course in 2
     <img title="WhatsApp" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp logo">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/claudio-vinicius-nogueira-3bb856145/" target="_blank">
+  <a href="https://www.linkedin.com/in/claudio-nogueira-3bb856145/" target="_blank">
     <img title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank" alt="LinkedIn logo">
   </a>
   &nbsp;
