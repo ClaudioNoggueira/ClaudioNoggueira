@@ -99,7 +99,7 @@ My first contact with system development was in a technical computer course in 2
     <img title="Gmail" src="https://img.icons8.com/color/48/000000/gmail-new.png" target="_blank" alt="Gmail logo">
   </a>
   &nbsp;
-  <a href="mailto:claudionoggueira@gmail.com">
+  <a href="mailto:claudionoggueira@outlook.com">
     <img title="Outlook" src="https://img.icons8.com/color/48/000000/ms-outlook.png" target="_blank" alt="Outlook logo">
   </a>
   &nbsp;   
