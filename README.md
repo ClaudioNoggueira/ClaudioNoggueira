@@ -8,7 +8,7 @@ My first contact with system development was in a technical computer course in 2
 
 <span>You can find my portfolio at: </span>
 <a href="https://portfolio-claudionogueira.netlify.app/" target="_blank">
-  Claudio's Portfolio &rarr;
+  My Personal Portfolio &rarr;
 </a>
 
 
