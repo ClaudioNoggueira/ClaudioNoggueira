@@ -12,7 +12,6 @@ My first contact with system development was in a technical computer course in 2
 </a>
 
 <br>
-<br>
 
 * 🌍  I'm based in São Paulo, SP - Brazil
 * 🧠  I'm currently learning frontend development
