@@ -6,7 +6,13 @@ Web Developer, Backend focused
 
 My first contact with system development was in a technical computer course in 2017, since then I've been passionate about the area. I started studying Java and C# and recently I've been focusing more on learning frontend development.
 
-You can find my portfolio at: [Claudio's Portfolio &rarr;](https://portfolio-claudionogueira.netlify.app/)
+<span>You can find my portfolio at: </span>
+<a href="https://portfolio-claudionogueira.netlify.app/" target="_blank">
+  Claudio's Portfolio &rarr;
+</a>
+
+<br>
+<br>
 
 * 🌍  I'm based in São Paulo, SP - Brazil
 * 🧠  I'm currently learning frontend development
