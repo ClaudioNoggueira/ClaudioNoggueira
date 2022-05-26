@@ -1,10 +1,10 @@
 Hi 👋 My name is Claudio Vinicius Nogueira
 ==========================================
 
-Web Developer, Backend focused
+Back-end Developer
 -------------------------------------
 
-My first contact with system development was in a technical computer course in 2017, since then I've been passionate about the area. I started studying Java and C# and recently I've been focusing more on learning frontend development.
+My first contact with system development was in a technical computer course in 2017, since then I've been passionate about the area. I started studying Java and C# and recently I've been focusing more on learning front-end development.
 
 <span>You can find my portfolio at: </span>
 <a href="https://portfolio-claudionogueira.netlify.app/" target="_blank">
@@ -13,7 +13,7 @@ My first contact with system development was in a technical computer course in 2
 
 
 * 🌍  I'm based in São Paulo, SP - Brazil
-* 🧠  I'm currently learning frontend development
+* 🧠  I'm currently learning front-end development
 * 📫  You can email me at: [cllaudionoggueira@gmail.com](mailto:cllaudionoggueira@gmail.com) or [claudionoggueira@outlook.com](mailto:claudionoggueira@outlook.com)
 * 📞  You can call and message me at: [+55 11 94067-1246](https://api.whatsapp.com/send?phone=5511940671246&text=Contato%20-%20Claudio%20Vinicius%20Nogueira)
 
