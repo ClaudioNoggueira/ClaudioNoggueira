@@ -120,4 +120,8 @@ My first contact with system development was in a technical computer course in 2
   <a href="https://discord.com/users/ClaudioNogueira#7216" rel="noreferrer">
     <img title="Discord" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" target="_blank" alt="Discord logo">
   </a>
+   &nbsp;
+  <a href="https://www.buymeacoffee.com/claudionogueira" rel="noreferrer">
+    <img title="Buy Me A Coffee" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/undefined/external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-shadow-tal-revivo.png" height="48" target="_blank" alt="Buy Me A Coffee logo">
+  </a>
 </div>
