@@ -1,7 +1,7 @@
 Hi 👋 My name is Claudio Vinicius Nogueira
 ==========================================
 
-Back-end Developer
+Javascript Developer
 -------------------------------------
 
 My first contact with system development was in a technical computer course in 2017, since then I've been passionate about the area. I started studying Java and C# and recently I've been focusing more on learning front-end development.
